@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".policy">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="1.1 REFUNDS
+        Your privacy matters to Medulance Healthcare Pvt. Ltd. (hereinafter referred to as the “Company”, “we”, “Medulance”, or “us”). This Privacy Policy explains how we collect, process, use, share and protect information about you. It also tells you how you can access and update your information and make certain choices about how your information is used.
+
+        The Privacy Policy covers both “online” (e.g., web and mobile services, including any websites operated by us such as www.medulance.comor Mobile Application, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through postal mails, telephone, or in person) activities owned, operated, provided, or made available by the Company. Our “online” and “offline” activities, in relation to facilitation of transportation services through a network of third party Ambulance Service Providers (ASPs) and/or drivers are collectively referenced as the “Services”. This Privacy Policy also applies to your use of interactive features or downloads that: (i) we own or control; or (ii) are available through the Services.
+
+        BY CLICKING ON THE ‘DONE’ BUTTON WHILE SIGNING UP WITH US YOU HAVE CATEGORICALLY AGREED TO OUR CUSTOMER TERMS AND CONDITIONS AND TO THE TERMS OF THIS PRIVACY POLICY. YOU ARE ADVISED TO CAREFULLY PERUSE THE CONTENTS OUR PRIVACY POLICY AS SET HEREINBELOW. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU ARE REFRAINED FROM ACCESSING OUR SERVICES/MOBILE APPLICATION. THIS PRIVACY POLICY IS INCORPORATED BY REFERENCE INTO THE CUSTOMER TERMS AND CONDITIONS.
+
+        here.Original text is going to come here original text is going to come here.Original text is going to come here original text is going to come
+
+        1. DEFINITIONS
+        Unless otherwise provided in this Privacy Policy, the terms capitalized in the Privacy Policy shall have the meaning as provided hereunder and as defined within the Terms and Conditions:
+
+        “Co-branded Services” shall have the meaning assigned to the term in paragraph 7(c) hereto.
+        “Device” shall mean computer, mobile or other device used to access the Services.
+        “Device Identifier” shall mean IP address or other unique identifier for the Device.
+        “Mobile Application” shall mean the Medulance application provided by us on the Device to access the Services.
+        “Mobile Device Information” shall have the meaning assigned to the term in paragraph 2(d)(ii) hereto.
+        “Promotion” shall mean any contest and other promotions offered by us.
+        “Protected Information” shall mean such categories of information that could reasonably be used to identify you personally, including your name, e-mail address, and mobile number.
+        “TPSP” shall mean a third party service provider.
+        “Usage Information” shall have the meaning assigned to the term in paragraph 3 hereto.
+        2. WHAT INFORMATION DO WE COLLECT?
+        INFORMATION YOU PROVIDE TO US
+
+        We may ask you to provide us with certain Protected Information. We may collect this information through various means and in various places through the Services, including account registration forms, contact us forms, or when you otherwise interact with us. When you sign up to use the Services, you create a user profile. We shall ask you to provide only such Protected Information which is for lawful purpose connected with our Services and necessary to be collected by us for such purpose.
+
+        The current data fields that might be requested for are:
+
+        Email
+        Password
+        Name
+        Address
+        Mobile phone Number
+        Zip Code
+        Relevant medical information.
+        Please note that providing the medical information is not compulsory and you can choose to not share the same with us. In the event you share the relevant medical information with us, we will provide the same to the Ambulance Service Provide in order to customize the ambulance being provided to you to suit your medical emergency better.
+
+        3. INFORMATION WE COLLECT AS YOU ACCESS AND USE OUR SERVICES
+        In addition to any Protected Information or other information that you choose to submit to us, we and our TPSP may use a variety of technologies that automatically (or passively) collect/store certain information whenever you visit or interact with the Services (“Usage Information”). This Usage Information may include the browser that you are using, the URL that referred you to our Services, all of the areas within our Services that you visit, and the time of day, among other information. In addition, we collect your Device Identifier for your Device. A Device Identifier is a number that is automatically assigned to your Device used to access the Services, and our computers identify your Device by its Device Identifier.
+        In case of booking via call center, Medulance may record calls for quality and training purposes.
+        In addition, tracking information is collected as you navigate through our Services, including, but not limited to geographic areas. The driver’s mobile phone will send your GPS coordinates, during the ride, to our servers.
+        Usage Information may be collected using a cookie. If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. Cookies can be disabled or controlled by setting a preference within your web browser or on your Device. If you choose to disable cookies or flash cookies on your Device, some features of the Services may not function properly or may not be able to customize the delivery of information to you. The Company cannot control the use of cookies (or the resulting information) by third parties, and use of third party cookies is not covered by our Privacy Policy.
+        In addition, You are to provide us information about the purpose/intent of accessing our Services. We provide options for Advance Life Support (‘ALS’), Basic Life Support (‘BLS’), Patient Transport and Mortuary on our Mobile Application and Website. You are you choose the most appropriate option from our Mobile Application and/or Website depending on your Need.
+        4. INFORMATION THIRD PARTIES PROVIDE ABOUT YOU
+        We may, from time to time, supplement the information we collect about you through our Website or Mobile Application or Services with outside records from third parties.
+
+        5. INFORMATION COLLECTED BY MOBILE APPLICATIONS
+        Our Services are primarily provided through the Mobile Application. We may collect and use technical data and related information, including but not limited to, technical information about your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to such Mobile Applications.
+        When you use any of our Mobile Applications, the Mobile Application may automatically collect and store some or all of the following information from your mobile device (“Mobile Device Information”), in addition to the Device Information, including without limitation:
+        o Your preferred language and country site (if applicable)
+
+        o The manufacturer and model of your mobile device
+
+        o Your mobile operating system
+
+        o The type of mobile internet browsers you are using
+
+        o Your geolocation
+
+        Information about how you interact with the Mobile Application and any of our web sites to which the Mobile Application links, such as how many times you use a specific part of the Mobile Application over a given time period, the amount of time you spend using the Mobile Application, how often you use the Mobile Application, actions you take in the Mobile Application and how you engage with the Mobile Application
+        Information to allow us to personalize the services and content available through the Mobile Application. The Medulance Mobile Application allows you to choose the purpose/intent of availing our Services. You can choose the kind of ambulance that you require depending on your medical emergency. The Medulance Mobile Application provides 4 options to choose from - Advance Life Support (‘ALS’), Basic Life Support (‘BLS’), Patient Transport and Mortuary. The same can be chosen from the Mobile Application.
+        We do not collect any confidential medical/personal information that may be required to be protected under any Applicable Laws. We, however, may ask you to provide the relevant medical information for which you may require an ambulance in order to serve you better. As already mentioned hereinabove providing the said relevant medical information is not compulsory. You are therefore advised to not share any such confidential medical/personal information on Our Application/Website/Mobile Application or with any Ambulance Service Provider or the Drivers of such Ambulances. You understand the repercussions and take full responsibility in the event any such confidential medical/personal information is leaked/made available. Medulance shall in no event be held liable for such information being made available.
+        We understand that under several Applicable Laws, the identity of any patient may be required to be protected and should not be divulged. Since under this Privacy Policy, we collect/store your personal information, we undertake to comply with any such Applicable Laws to the best of our ability. However, We shall in no event be liable for any personal information that may have been stored during transit with any third party service provider.There could also be a possibility that the person booking an Ambulance via Medulance may not be the person availing the service, in such cases Medulance takes no responsibility if any information of confidential nature is misused or divulged internally or through the ASP/TPSP." />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

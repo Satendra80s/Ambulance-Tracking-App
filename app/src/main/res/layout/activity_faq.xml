@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".faq">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="NHS Continuing Healthcare FAQs
+“I need to know what funding my mother may be entitled to?”
+
+Specific funding entitlement will depend on each individual situation. However, if a person needs full-time care and has health needs, the first thing that should happen is an assessment for NHS Continuing Healthcare funding – not a financial assessment or means-test. NHS Continuing Healthcare is NHS funding and it covers the full cost of care for people who meet certain criteria. Those qualifying are said to have a ‘Primary Health Need’, i.e. their primary need in terms of care is a health need. Read the NHS Continuing Healthcare guidelines, particularly the Decision Support Tool, to find out what these criteria are.
+
+“My father’s had a financial assessment and I need to know what he has to pay?”
+
+“My mother has a house. Does she have to pay for her care?”
+
+“We’ve been told my brother has to pay for his care because he has savings. Is this true?”"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

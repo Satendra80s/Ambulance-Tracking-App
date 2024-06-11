@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "893854492583",
+    "firebase_url": "https://hospital-47151-default-rtdb.firebaseio.com",
+    "project_id": "hospital-47151",
+    "storage_bucket": "hospital-47151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893854492583:android:21aa033808ded53fc47882",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893854492583-vdmjkgcdifalrq4rfhm1a8c5hfapj1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lSZbJjNb_FnEUnACOv4Bqau6_AV7yzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893854492583-bvq74pnchoa4mrm5nie54rno2097t8rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893854492583:android:4c110841bc34f3edc47882",
+        "android_client_info": {
+          "package_name": "com.example.medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893854492583-vdmjkgcdifalrq4rfhm1a8c5hfapj1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lSZbJjNb_FnEUnACOv4Bqau6_AV7yzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893854492583-bvq74pnchoa4mrm5nie54rno2097t8rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
